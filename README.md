@@ -4,7 +4,7 @@ New paradigms and models for Governance&Politics, Economics&Finance, Business, L
 
 Software can play a central role in enabling the needed changes. This overarching project is meant to be a testbed for several different ideas. The goal is to use this repository to host many different prototypes that showcase the application of any new idea and/or model related to the aforementioned subjects. The application will usually take the form of a web, mobile or desktop appplication. 
 
-The repository is currently under construction. Existing projects will be added soon.
+The repository is currently under construction. Existing projects will be added soon. The corresponding github-pages website is also being built.
 
 
 
