@@ -7,8 +7,22 @@ Software can play a central role in enabling the needed changes. This overarchin
 The repository is currently under construction. Existing projects will be added soon. The corresponding github-pages website https://pedrodlafaria.github.io/Civinexus/ is also being built.
 
 
+## Sub-Projects
+
+1. Citizen App (maybe this will divided into further sub-projects)
+  - Front-end (React)
+  - Back-end (Node.js, MongoDB)
+  - Mobile (React Native)
+  - Desktop (Electron)?
+
+2. Payroll Manager
+  - Front-end (React)
+  - Back-end (Node.js, MongoDB)
+  - Mobile (React Native)
+  - Desktop (Electron)?
 
 
+  
 A few extra notes:
 
 The Mathematica notebooks should be disposed of, after being migrated to Python and Jupyter notebooks.
