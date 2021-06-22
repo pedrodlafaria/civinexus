@@ -6,6 +6,8 @@ Software can play a central role in enabling the needed changes. This overarchin
 
 The repository is currently under construction. Existing projects will be added soon. The corresponding github-pages website https://pedrodlafaria.github.io/Civinexus/ is also being built.
 
+The meetup https://www.meetup.com/Society-2-0/ is to be used to discuss this project.
+
 
 ## Sub-Projects
 
